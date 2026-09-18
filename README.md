@@ -1,2 +1,2 @@
-# NETSOL-Institute-of-Artificial-intelligence-
-Work and Assignments from NETSOL
+# -NAVTTC-assignment-from-NETSOL
+NAVTTC Course of Ai Ml Assignment and work from NETSOL 
